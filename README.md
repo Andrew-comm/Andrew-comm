@@ -1,6 +1,95 @@
 <h1 align="center">Hi 👋, I'm Andrew Rono</h1>
 <h3 align="center">A passionate software developer</h3>
 
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset='utf-8'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <title>Carousel Page</title>
+    <meta name='viewport' content='width=device-width, initial-scale=1'>
+    <link rel='stylesheet' type='text/css' media='screen' href='styles.css'>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css" integrity="sha384-rbsA2VBKQhggwzxH7pPCaAqO46MgnOM80zW1RWuH61DGLwZJEdK2Kadq2F9CUG65" crossorigin="anonymous">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.min.js" integrity="sha384-cuYeSxntonz0PPNlHhBs68uyIAVpIIOZZ5JqeqvYYIcEL727kskC66kF92t6Xl2V" crossorigin="anonymous"></script>
+
+   
+</head>
+  <style>
+    .c-item{
+    height: 400px;
+    width: 100%;
+
+}
+.c-img{
+    height: 100%;
+    border: 1px solid black;
+    object-fit: cover;
+
+}
+.carousel-caption{
+    text-decoration: aqua;
+    color: blueviolet;
+}
+  </style>
+<body>
+
+    <div id="my-carousel" class="carousel slide" data-bs-ride="carousel">
+        <div id="carouselExampleIndicators" class="carousel slide" data-bs-ride="true">
+            <div class="carousel-indicators">
+              <button type="button" data-bs-target="#my-carousel" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+              <button type="button" data-bs-target="#my-carousel" data-bs-slide-to="1" aria-label="Slide 2"></button>
+              <button type="button" data-bs-target="#my-carousel" data-bs-slide-to="2" aria-label="Slide 3"></button>
+            </div>
+          
+        <div class="carousel-inner">
+          <div class="carousel-item active c-item">
+            <img src="https://www.freepik.com/free-vector/laptop-with-program-code-isometric-icon-software-development-programming-applications-dark-neon_4102879.htm#query=programming&position=1&from_view=keyword&track=sph" class="d-block w-100 c-img" alt="image1">
+            <div class="carousel-caption top-0">
+                <h1>Amazing palace</h1>
+                <p>Pretty look of my future cottage</p>
+              </div>
+          </div>
+          <div class="carousel-item c-item">
+            <img src="![image](https://user-images.githubusercontent.com/107958113/225748372-76615c8c-8f3e-4444-a73b-fe229ba0484f.png)
+" class="d-block w-100 c-img" alt="image2">
+            <div class="carousel-caption top-0 ">
+                <h1>Ambious developer setup</h1>
+                <p>working site an the gorgeous look of ambitious developer</p>
+              </div>
+           
+        
+          </div>
+          <div class="carousel-item c-item">
+            <img src="https://www.freepik.com/free-photo/programming-background-with-person-working-with-codes-computer_38669437.htm#query=programming&position=3&from_view=keyword&track=sph" class="d-block w-100 c-img" alt="image3">
+            <div class="carousel-caption top-0 ">
+                <h1>Look of my code background</h1>
+                <p>The superb art of coding with experience</p>
+              </div>
+          
+        
+          </div>
+
+          <button class="carousel-control-prev" type="button" data-bs-target="#my-carousel" data-bs-slide="prev">
+            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+            <span class="visually-hidden">Previous</span>
+          </button>
+        
+      </div>
+
+      <button class="carousel-control-next" type="button" data-bs-target="#my-carousel" data-bs-slide="next">
+        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+        <span class="visually-hidden">Next</span>
+      </button>
+
+
+
+        </div>
+        
+    
+    
+</body>
+</html>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andrew-comm&label=Profile%20views&color=0e75b6&style=flat" alt="andrew-comm" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=andrew-comm" alt="andrew-comm" /></a> </p>
