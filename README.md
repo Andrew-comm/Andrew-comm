@@ -2,7 +2,7 @@
 <h3 align="center">A passionate software developer</h3>
 <div>
   <img src="https://user-images.githubusercontent.com/107958113/228742401-2c6a51cd-ea43-459e-adac-5a71c0a20338.png" alt="alt text" width="500" height="300">
-  <img src="https://user-images.githubusercontent.com/107958113/228750072-579bcde5-bf32-43d3-b44e-e87318d9c22c.png" alt="alt text" width="300" height="500">
+  <img src="https://user-images.githubusercontent.com/107958113/228750072-579bcde5-bf32-43d3-b44e-e87318d9c22c.png" alt="alt text" width="500px" height="500">
 </div>
 
 
