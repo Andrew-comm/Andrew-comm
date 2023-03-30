@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Andrew Rono</h1>
 <h3 align="center">A passionate software developer</h3>
-![image](https://user-images.githubusercontent.com/107958113/228742401-2c6a51cd-ea43-459e-adac-5a71c0a20338.png)
-![image](https://user-images.githubusercontent.com/107958113/228742400-55f620b3-d222-4351-b739-05471b3810d1.png)
+<img ![image](https://user-images.githubusercontent.com/107958113/228742401-2c6a51cd-ea43-459e-adac-5a71c0a20338.png)>
+
 
 <h3>Django and React Skilled<h3>
 
