@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Andrew Rono</h1>
 <h3 align="center">A passionate software developer</h3>
-<img src="https://user-images.githubusercontent.com/107958113/228742401-2c6a51cd-ea43-459e-adac-5a71c0a20338.png" alt="alt text" width='100'>
+<img src="https://user-images.githubusercontent.com/107958113/228742401-2c6a51cd-ea43-459e-adac-5a71c0a20338.png" alt="alt text" width='100px' height='100px'>
 
 
 <h3>Django and React Skilled<h3>
