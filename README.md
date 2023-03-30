@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Andrew Rono</h1>
 <h3 align="center">A passionate software developer</h3>
-<img src="https://stock.adobe.com/nl/images/big-data-and-analytics-visualization-technology-with-scientist-analyzing-information-structure-on-virtual-screen-machine-learning-to-extract-predictions-for-business-finance-internet-of-things-iot/573230856">
+<a><img src=["https://stock.adobe.com/nl/images/big-data-and-analytics-visualization-technology-with-scientist-analyzing-information-structure-on-virtual-screen-machine-learning-to-extract-predictions-for-business-finance-internet-of-things-iot/573230856"](https://t4.ftcdn.net/jpg/02/27/24/19/240_F_227241901_KyI5XcTjEZG7EuOnSevVIQXA23uNFExP.webp) width='100', height='100'><a>
 <h3>Django and React Skilled<h3>
 
 
