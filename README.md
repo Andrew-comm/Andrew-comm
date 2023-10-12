@@ -5,6 +5,10 @@
   <img src="https://user-images.githubusercontent.com/107958113/228750072-579bcde5-bf32-43d3-b44e-e87318d9c22c.png" alt="alt text" width="400px" height="300"px>
 </div>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Andrew-comm&label=Profile%20views&color=0e75b6&style=flat" alt="andrew" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Andrew-comm" alt="andrew" /></a> </p>
+
 
 
 
