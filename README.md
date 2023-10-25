@@ -21,11 +21,11 @@
 
 - 🔭 I’m currently working on **django**
 
-- 🌱 I’m currently learning **Django,Kotlin**
+- 🌱 I’m currently learning **Laravel, React Native**
 
 - 👯 I’m looking to collaborate on **web applications**
 
-- 💬 Ask me about **python**
+- 💬 Ask me about **python, Django**
 
 - 📫 How to reach me **ndrwrono2001@gmail.com**
 
