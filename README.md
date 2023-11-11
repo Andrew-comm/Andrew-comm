@@ -21,7 +21,7 @@
 
 - 🔭 I’m currently working on **django**
 
-- 🌱 I’m currently learning **Laravel, React Native**
+- 🌱 I’m currently learning **Laravel, React Native, Nodejs**
 
 - 👯 I’m looking to collaborate on **web applications**
 
