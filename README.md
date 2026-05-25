@@ -11,7 +11,7 @@
 
 
 
-<h3>Django and React Skilled<h3>
+<h3>Experinced Software Engineer<h3>
 
 
 
